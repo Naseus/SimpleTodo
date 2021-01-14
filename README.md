@@ -32,7 +32,7 @@ GIF created with [peek](https://github.com/phw/peek).
 
 ## Notes
 
-The version of linux that I am on does not support LiceCap, so I used Peek for my GIF.
+LiceCap does not work on my machine, so I used Peek for my GIF.
 
 ## License
 
