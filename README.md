@@ -26,13 +26,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [peek](https://github.com/phw/peek).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The version of linux that I am on does not support LiceCap, so I used Peek for my GIF.
 
 ## License
 
